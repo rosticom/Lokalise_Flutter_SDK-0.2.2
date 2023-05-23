@@ -1,0 +1,1 @@
+Please see [usage](https://pub.dev/packages/lokalise_flutter_sdk).
