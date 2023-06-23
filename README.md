@@ -1,4 +1,4 @@
-# Lokalise Flutter SDK
+# Lokalise Flutter SDK (expired version)
 
 This package provides over-the-air translations updates from [lokalise.com](https://lokalise.com)
 
